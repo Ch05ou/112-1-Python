@@ -1,3 +1,8 @@
+'''
+找出0~100的整數中，符合a^3+b^3+c^3=d^3，且a<b<c<d的所有組合
+並列印出所有組合以及組合個數
+''''
+
 import socket
 import datetime
 
